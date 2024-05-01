@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>GRC Projects</b><br>
-  - Risk Assessment- (https://github.com/joshmadakor1/Sentinel-Lab)<br>
+  - Risk Assessment- (https://github.com/Abhinav8709/Risk-Assessment)<br>
   - Security Policy- (https://github.com/Abhinav8709/Security-Policy)<br>
   - Security Auditing- (https://github.com/Abhinav8709/Security-Auditing)<br>
   - Security Awareness Training- Phishing Awareness- (https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
