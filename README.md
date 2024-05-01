@@ -5,6 +5,6 @@
   - Risk Assessment- (https://github.com/Abhinav8709/Risk-Assessment)<br>
   - Security Policy- (https://github.com/Abhinav8709/Security-Policy)<br>
   - Security Auditing- (https://github.com/Abhinav8709/Security-Auditing)<br>
-  - Security Awareness Training- Phishing Awareness- (https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - Security Awareness Training- Phishing Awareness- (https://github.com/Abhinav8709/User-Awareness-training-Phishing-Awareness)
 
 
